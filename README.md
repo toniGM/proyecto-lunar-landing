@@ -9,5 +9,5 @@ También he creado dos nuevas hojas a las que he llamado _agradecimientos.html_ 
 
 En el documento de estilos css enlazado es donde se estructura y organizan todos los elementos anteriormente creados. De la siguiente manera:
 1. Body. Aquí he dado formato al texto (tamaño y color) y he añadido el fondo de la página (background-image)
-2
+2. Esto es una mierda
 
