@@ -1,5 +1,4 @@
 # PROYECTO LUNAR LANDING (LMSGI 02)
-***
 ### ARGUMENTACIÓN TÉCNICA Y ESTÉTICA
 
 Al inciar el documento _principal.html_, en la etiquta **head** he relacionado todas las características de la página, como el tipo de caracteres utilizados, el enlace a la hoja de estilos, titulo, descripción y contenido. 
