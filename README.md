@@ -8,6 +8,7 @@ La imagen de la nave y la luna la he insertado mediante la etiqueta ***img**.
 También he creado dos nuevas hojas a las que he llamado _agradecimientos.html_ e _instrucciones.html_, a las que se llegará desde la página principal y que contendrán datos e información del juego.
 
 En el documento de estilos css enlazado es donde se estructura y organizan todos los elementos anteriormente creados. De la siguiente manera:
+
 1. Body. Aquí he dado formato al texto (tamaño y color) y he añadido el fondo de la página (background-image)
 2. Esto es una mierda
 
