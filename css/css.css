@@ -1,0 +1,44 @@
+body {
+	background-image: url(../img/cielolunar.jpg);
+	font-family: Calibri; 
+	color:#F4E75A; 
+	font-size: 24px; 
+	margin: 0; 
+	padding:0;}    
+#selectorIZ {
+	position: absolute; 
+	float: left; 
+	top: 20px; left: 
+	20px; 
+	text-align: left;}
+#selectorIZ UL {
+	list-style: none; 
+	margin: 0; 
+	padding 0; 
+	background-color: #626F7B;}                        
+#selectorIZ LI A {
+	display: block; 
+	padding: 10px 50px 10px 10px}
+#selectorDE {
+	position: absolute; 
+	display:block; 
+	float: right; 
+	top: 20px; 
+	right: 20px; 
+	text-align: right;}
+#selectorDE UL {
+	list-style: none; 
+	margin: 0; padding 0; 
+	background-color: #626F7B;}
+#selectorDE LI A {
+	display: block; 
+	padding: 10px 50px 10px 10px;
+	color: #F4E75A;}
+#selectorDE LI A: hover{
+	color: #FFFFF;}                                                                           
+.d {
+	position: absolute; 
+	bottom: 0;}
+#navediv {text-align: center;}
+
+
